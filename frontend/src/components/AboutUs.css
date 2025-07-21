@@ -1,0 +1,23 @@
+.about-container {
+    text-align: center;
+    padding: 50px;
+    background: linear-gradient(to right, #ec4899, #8b5cf6, #38bdf8);
+  }
+  
+  .about-container h1 {
+    color: white;
+  }
+  
+  .about-container p {
+    font-size: 18px;
+    color: white;
+    max-width: 800px;
+    margin: auto;
+  }
+  .about-container h2 {
+    color: white;
+  }
+  .about-container li {
+    color: white;
+  }
+  
